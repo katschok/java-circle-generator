@@ -1,14 +1,14 @@
-# java-circle-generator
-Java-Tool zur Generierung von Kreiskoordinaten für die Visualisierung mit Gnuplot.
+My Circle Project 🔵
 
-## Quick Start
-1. Starte das Programm über die `main`-Methode im Hauptprogramm.
-2. Die Datei `kreis.txt` wird im Projektordner erstellt.
+Das ist ein kleines Java-Projekt aus meinem Studium. Das Programm rechnet 360 Koordinaten für einen Kreis aus und speichert sie in einer Datei, damit man das Ergebnis später mit Gnuplot "plotten" (anzeigen) kann.
 
-## Visualisierung mit Gnuplot
-Um das Ergebnis zu sehen, öffne Gnuplot und gib folgende Befehle ein:
+So geht's:
+Programm starten: Einfach die Hauptprogramm.java ausführen.
 
-```gnuplot
-set style line 1 pt 7
+Pfad kopieren: In der Konsole steht nach dem Start direkt, wo die Datei kreis.txt gespeichert wurde. Den Pfad einfach kopieren.
+
+In Gnuplot anzeigen: Gnuplot öffnen und diese Befehle eingeben (beim letzten Befehl deinen Pfad einfügen):
+
 set size square
-plot "kreis.txt" linestyle 1
+set style line 1 pt 7
+plot "DEIN/KOPIERTER/PFAD/kreis.txt" linestyle 1
