@@ -8,7 +8,7 @@ Programm starten: Einfach die Hauptprogramm.java ausführen.
 Pfad kopieren: In der Konsole steht nach dem Start direkt, wo die Datei kreis.txt gespeichert wurde. Den Pfad einfach kopieren.
 
 In Gnuplot anzeigen: Gnuplot öffnen und diese Befehle eingeben (beim letzten Befehl deinen Pfad einfügen):
-
+```
 set size square
 set style line 1 pt 7
 plot "DEIN/KOPIERTER/PFAD/kreis.txt" linestyle 1
