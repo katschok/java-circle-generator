@@ -13,4 +13,4 @@ set size square
 set style line 1 pt 7
 plot "DEIN/KOPIERTER/PFAD/kreis.txt" linestyle 1
 ```
-<img width="628" height="571" alt="Bildschirmfoto 2026-05-11 um 17 51 54" src="https://github.com/user-attachments/assets/f82088fa-d89f-437c-90ce-a2d533c574cb" />
+<img width="632" height="578" alt="Bildschirmfoto 2026-05-11 um 17 56 21" src="https://github.com/user-attachments/assets/b2c4d03a-822b-4df3-a542-7f671e93f742" />
