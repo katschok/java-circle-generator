@@ -12,3 +12,5 @@ In Gnuplot anzeigen: Gnuplot öffnen und diese Befehle eingeben (beim letzten Be
 set size square
 set style line 1 pt 7
 plot "DEIN/KOPIERTER/PFAD/kreis.txt" linestyle 1
+
+<img width="628" height="571" alt="Bildschirmfoto 2026-05-11 um 17 51 54" src="https://github.com/user-attachments/assets/f82088fa-d89f-437c-90ce-a2d533c574cb" />
